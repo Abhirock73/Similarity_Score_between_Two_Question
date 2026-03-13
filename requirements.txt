@@ -9,3 +9,6 @@ python-Levenshtein
 pillow==9.5.0
 distance
 gensim==4.3.2
+beautifulsoup4
+nltk
+
