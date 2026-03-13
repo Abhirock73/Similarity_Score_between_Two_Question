@@ -1,8 +1,10 @@
-streamlit
-scikit-learn
-gensim
-numpy
-pandas
+
 xgboost
 fuzzywuzzy
 python-Levenshtein
+
+streamlit==1.32.2
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.4.2
+gensim==4.3.2
