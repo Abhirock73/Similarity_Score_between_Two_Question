@@ -7,3 +7,4 @@ xgboost==2.0.3
 fuzzywuzzy
 python-Levenshtein
 pillow==9.5.0
+distance
