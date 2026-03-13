@@ -3,7 +3,6 @@ scikit-learn
 gensim
 numpy
 pandas
-pickle
 xgboost
 fuzzywuzzy
 python-Levenshtein
