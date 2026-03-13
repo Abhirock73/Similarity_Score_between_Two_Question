@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+gensim
+numpy
+pandas
+joblib
